@@ -1,5 +1,5 @@
 {
-  "name": "helloword",
+  "name": "helloword234234",
   "version": "1.0.0",
   "description": "helloword",
   "main": "index.js",
